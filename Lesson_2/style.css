@@ -1,0 +1,19 @@
+h1 {
+    background: red;
+    font-size: 500px;
+    transition: 0.5s;
+}
+
+h1:hover {
+    background: rgb(165, 105, 200);
+}
+
+ul {
+    border: solid;
+    width: 60px;
+    margin: 20px;
+}
+
+li {
+    border: solid 1px;
+}
